@@ -1,4 +1,4 @@
 package com.example.xxtz.Dao;
 
-public class Receiver {
+public interface Receiver {
 }

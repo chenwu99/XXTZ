@@ -1,4 +1,6 @@
 package com.example.xxtz.Dao;
 
-public class Message {
+
+public interface Message {
+
 }
