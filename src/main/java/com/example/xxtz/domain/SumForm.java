@@ -1,4 +1,4 @@
-package com.example.xxtz.Data;
+package com.example.xxtz.domain;
 
 public class SumForm {
     private int sumFormID;

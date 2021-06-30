@@ -1,6 +1,9 @@
-package com.example.xxtz.Dao;
+package com.example.xxtz.dao;
+import org.springframework.stereotype.Repository;
+
 import java.util.List;
 
+@Repository
 public interface Fun {
 
     int add(Object obj);
