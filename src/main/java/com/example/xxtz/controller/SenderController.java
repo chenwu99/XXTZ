@@ -2,7 +2,7 @@ package com.example.xxtz.controller;
 import org.springframework.stereotype.Controller;
 
 @Controller
-public class Senter {
+public class SenderController {
 
 
 
